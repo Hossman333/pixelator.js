@@ -3,7 +3,7 @@ pixelator.js
 
 Pixelator.js for all your pixelation perfection pixeling needs. See the website: http://iammerrick.github.io/pixelator.js/
 
-Live examples: 
+Live examples: <br>
 http://codepen.io/iammerrick/full/liIkx/ <br>
 http://codepen.io/hossman/full/mhjoc/
 
